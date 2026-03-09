@@ -1,7 +1,8 @@
 # 🌌 Laurie – Développeuse Full Stack - En formation 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=70&duration=4000&pause=1000&color=9370DB&width=1000&height=100&lines=Salut,+je+suis+Laurie+!;En+formation;Développeuse+Full+Stack;Créative+et+Passionnée" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=50&duration=4000&pause=1000&color=9370DB&width=1200&height=70&lines=Salut,+je+suis+Laurie+!;En+formation;Développeuse+Full+Stack;Créative+et+Passionnée" 
+       alt="Typing SVG" />
 </p>
 
 ---
@@ -59,28 +60,18 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=LaurieLM&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LaurieLM&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
-</p>
----
-
-## 🐍 Contributions – Snake Vert Fluo
+## 🐍 Contributions
 
 <p align="center">
   <img src="https://github.com/LaurieLM/LaurieLM/blob/output/github-contribution-grid-snake.svg?raw=true" alt="Snake animé vert fluo" height="220"/>
 </p>
-
-> ⚠️ Assure-toi que ton workflow Snake est configuré avec **Read & Write permissions** pour que la branche `output` soit générée correctement.
 
 ---
 
 ## 👀 Compteur de vues
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=LaurieLM&color=9370DB&style=for-the-badge)
+  <img src="https://komarev.com/ghpvc/?username=LaurieLM&style=for-the-badge&color=9370DB" height="60"/>
 </p>
 
 ---
