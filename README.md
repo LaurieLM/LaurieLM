@@ -49,13 +49,9 @@ Description courte du projet.
 Description courte du projet.  
 ➡️ https://github.com/LaurieLM/[repo]
 
-## 📊 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=LaurieLM&show_icons=true&theme=tokyonight)
 
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurieLM&layout=compact&theme=tokyonight)
-
-## 🌐 Me retrouver
+## 🌐 Me contacter
 
 - 💼 LinkedIn : https://www.linkedin.com/in/laurie-lespinasse-marini/
 
