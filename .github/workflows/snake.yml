@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 */12 * * *" # toutes les 12h
   workflow_dispatch:
 
 jobs:
@@ -13,6 +13,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: LaurieLM
+          # version stylée avec couleur verte, fond sombre
+          color: "#39ff14"
+          background: "#0d1117"
           outputs: |
             dist/github-contribution-grid-snake.svg
 
