@@ -29,7 +29,7 @@
 
 ## 🐍 Contributions
 
-![snake gif](https://github.com/LaurieLM/LaurieLM/blob/output/github-contribution-grid-snake.svg)
+![Snake animé](https://github.com/LaurieLM/LaurieLM/blob/output/github-contribution-grid-snake.svg)
 
 ## 📂 Mes projets
 
