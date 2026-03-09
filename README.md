@@ -1,67 +1,67 @@
-# A propos de moi
+# 👋 Salut, moi c'est Laurie
 
+💻 Développeuse en formation, passionnée par la création d'applications et l'apprentissage de nouvelles technologies.
 
-**LaurieLM/LaurieLM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 À propos de moi
+- 🔭 Je travaille actuellement sur : **Galaxy's Pets**
+- 🌱 J'apprends actuellement : **Java / SpringBoot**
+- 📫 Comment me contacter : **https://www.linkedin.com/in/laurie-lespinasse-marini/**
 
-- 🌱 Je suis actuellement en formation à ADA TECH SCHOOL en Développement Web
-- 📫 Je vis en France dans la ville de Lyon
-- 😄 Pronoms : Elle
+## 🛠️ Technologies & Outils
 
-
-# Laurie ✨
-
-Développeuse en devenir
-
-## 🛠️🤝 Compétences 
-<table><tr>
-<td>
-<h3>🛠️ Compétences</h3>
-<div>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" />
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-<img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</div>
-</td>
-<td>
-<h3>🤝 Compétences</h3>
-<ul>
-<li>Communication</li>
-<li>Travail d’équipe</li>
-<li>Résolution de problèmes</li>
-<li>Autonomie</li>
-<li>Curiosité</li>
-<li>Empathie</li>
-<li>Esprit d’analyse</li>
-</ul>
-</td>
-</tr></table>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="mariadb logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"/>
+</p>
 
 ## 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=LaurieLM&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaurieLM&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurieLM&layout=compact&theme=tokyonight"/>
+</p>
+
+## 🐍 Contributions
+
+![snake gif](https://github.com/LaurieLM/LaurieLM/blob/output/github-contribution-grid-snake.svg)
+
+## 📂 Mes projets
+
+🔹 **[Galaxy's Pets]**  
+Description courte du projet.  
+➡️ https://github.com/LaurieLM/galaxys_pets
+
+🔹 **[Adaopte]**  
+Description courte du projet.  
+➡️ https://github.com/LaurieLM/[repo]
+
+🔹 **[Dataviz]**  
+Description courte du projet.  
+➡️ https://github.com/LaurieLM/dataviz
+
+🔹 **[SuperQuiz]**  
+Description courte du projet.  
+➡️ https://github.com/LaurieLM/[repo]
+
+## 📊 Statistiques GitHub
+
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=LaurieLM&show_icons=true&theme=tokyonight)
+
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurieLM&layout=compact&theme=tokyonight)
+
+## 🌐 Me retrouver
+
+- 💼 LinkedIn : https://www.linkedin.com/in/laurie-lespinasse-marini/
 
 ---
 
-<table><tr>
-<td valign="top">
-<h4>💻 Langages les plus utilisés</h4>
-<img alt="Langages les plus utilisés" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaurieLM&layout=compact&theme=dracula" />
-</td>
-<td valign="top">
-<h4>🔥 Série de contributions</h4>
-<img alt="Série de contributions" src="https://streak-stats.demolab.com?user=LaurieLM&theme=dracula&hide_border=true" />
-</td>
-</tr></table>
-
----
-
-### 📈 Graphique d'activité
-![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=LaurieLM&theme=dracula)
-
-## 🔗 Liens
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/LaurieLM)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laurie-lespinasse-marini/)
+⭐️ Si tu aimes mes projets, n'hésite pas à leur laisser une étoile !
